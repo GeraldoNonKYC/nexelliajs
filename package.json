@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "nexelliajs@git+ssh://git@github.com/mrmikeo/Nexelliajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+      "/home/backend/walletEngine"
+    ]
+  ],
+  "_from": "nexelliajs@git+https://github.com/mrmikeo/Nexelliajs.git",
+  "_id": "nexelliajs@git+ssh://git@github.com/mrmikeo/Nexelliajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+  "_inBundle": false,
+  "_integrity": "sha512-CVPgWIRlI9zHj3IVUpd0LIyDYNXGnMhPxqk9W+rbBXnpVpivPC2XH2HnIKODVTSFBYiANIB8X1bYsti08GL0sQ==",
+  "_location": "/nexelliajs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "nexelliajs@git+ssh://git@github.com/mrmikeo/Nexelliajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+    "name": "nexelliajs",
+    "escapedName": "nexelliajs",
+    "rawSpec": "git+ssh://git@github.com/mrmikeo/Nexelliajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+    "saveSpec": "git+ssh://git@github.com/mrmikeo/Nexelliajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+    "fetchSpec": "ssh://git@github.com/mrmikeo/Nexelliajs.git",
+    "gitCommittish": "d6fdeeb5921e1babaeade6d0fc2384c997cfd539"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/mrmikeo/Nexelliajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+  "_spec": "git+ssh://git@github.com/mrmikeo/Nexelliajs.git#d6fdeeb5921e1babaeade6d0fc2384c997cfd539",
+  "_where": "/home/backend/walletEngine",
+  "author": {
+    "name": "KaffinPX"
+  },
+  "bugs": {
+    "url": "https://github.com/GateKVite/Nexelliajs/issues"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13"
+  },
+  "description": "Simple Kaspa library for interacting with Kaspad & Kaspawalletd gRPC",
+  "homepage": "https://github.com/GateKVite/Nexelliajs#readme",
+  "keywords": [
+    "kaspa",
+    "nexelliajs",
+    "cryptocurrency"
+  ],
+  "license": "GPL-2.0",
+  "main": "index.js",
+  "name": "nexelliajs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GateKVite/Nexelliajs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.3"
+}
